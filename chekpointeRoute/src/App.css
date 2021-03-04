@@ -1,0 +1,119 @@
+.titrefilm {
+  color: black;
+  font-size: 150px;
+  font-family: "Times New Roman", Times, serif;
+  border-radius: 5px;
+  font-style: italic;
+}
+.btnadd {
+  color: white;
+  size: 30px;
+  font-style: italic;
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 5px;
+  cursor: pointer;
+  display: inline-block;
+  background-color: #7b38d8;
+  border-radius: 10px;
+  border: 4px double #cccccc;
+  color: black;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+.movicard {
+  margin: 5% 10%;
+}
+
+.tittle {
+  font-style: italic;
+  background: none;
+  color: blanchedalmond;
+}
+.affichage {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  background: none;
+  margin-right: 15%;
+  margin: 20%;
+  align-items: center;
+}
+.affich {
+  margin-top: 20%;
+}
+.aff {
+  margin: 10%;
+  padding-top: 10%;
+}
+.nav {
+  font-style: italic;
+  color: white;
+  font-size: 20px;
+  font-size: x-large;
+  border-color: black;
+  border-style: double;
+}
+.listaffichage {
+  font-style: italic;
+  font-weight: normal;
+  background: none;
+  color: blueviolet;
+}
+.inpu {
+  width: 80%;
+  padding: 15px 22px;
+  margin: 10px 5px;
+
+  box-sizing: border-box;
+  border: 4px solid #8842d5;
+  border-radius: 5px;
+}
+.bd {
+  background: none;
+}
+.inputsearch {
+  margin: 5%;
+}
+.searching {
+  display: flex;
+  justify-content: center;
+}
+.changcolor {
+  color: #7b38d8;
+  font-style: italic;
+  font-weight: 100;
+}
+.bigtitle {
+  font-size: 100px;
+  text-shadow: -1px -1px #f00, 1px 1px #a00, -3px 0 4px #000;
+  font-family: "Segoe print", Arial, Helvetica, sans-serif;
+  color: #dd0000;
+  padding: 64px 0 0 0;
+  margin: 100px auto;
+  font-weight: lighter;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  text-align: center;
+  display: block;
+  min-height: 172px;
+  min-width: 800;
+  max-height: 172px;
+  max-width: 800px;
+}
